@@ -1,4 +1,4 @@
-# Exploration analysis with SQL
+# Exploration analysis in SQL
 
 The following case study questions include some general data exploration analysis for the nodes and transactions before diving right into the core business questions.
 
