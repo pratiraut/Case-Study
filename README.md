@@ -149,7 +149,7 @@ WHERE rn = 1;
 
 ## Conclusion
 
-This case study aims to mimic traditional banking-style transaction data but with a twist - hopefully, it can give us some insight into the types of datasets you might encounter in a customer banking scenario.
+This case study aims to mimic traditional banking-style transaction data but with a twist - hopefully, it can give us some insight into the types of datasets that might be encountered in a customer banking scenario.
 
 
 
